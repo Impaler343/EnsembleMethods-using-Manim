@@ -1,0 +1,84 @@
+{
+  "slides": [
+    {
+      "type": "slide",
+      "start_animation": 0,
+      "end_animation": 2,
+      "number": 1,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 2,
+      "end_animation": 3,
+      "number": 2,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 3,
+      "end_animation": 4,
+      "number": 3,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 4,
+      "end_animation": 5,
+      "number": 4,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 5,
+      "end_animation": 6,
+      "number": 5,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 6,
+      "end_animation": 7,
+      "number": 6,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 7,
+      "end_animation": 8,
+      "number": 7,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 8,
+      "end_animation": 9,
+      "number": 8,
+      "terminated": false
+    },
+    {
+      "type": "last",
+      "start_animation": 9,
+      "end_animation": 10,
+      "number": 9,
+      "terminated": false
+    }
+  ],
+  "files": [
+    "slides\\files\\Zooming\\3539995710_1369098056_223132457.mp4",
+    "slides\\files\\Zooming\\649888707_2133785022_3881390198.mp4",
+    "slides\\files\\Zooming\\649888707_1710390548_4020610204.mp4",
+    "slides\\files\\Zooming\\2591288526_189780991_4087892415.mp4",
+    "slides\\files\\Zooming\\2905873840_2135122098_2610137508.mp4",
+    "slides\\files\\Zooming\\268663599_124017469_1077032383.mp4",
+    "slides\\files\\Zooming\\3911929818_1252666170_1008447577.mp4",
+    "slides\\files\\Zooming\\2499842968_1452131230_1450531371.mp4",
+    "slides\\files\\Zooming\\3986056347_367446192_1450531371.mp4",
+    "slides\\files\\Zooming\\3802135534_64103529_3516944548.mp4"
+  ],
+  "resolution": [
+    854,
+    480
+  ],
+  "background_color": "black"
+}

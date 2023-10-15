@@ -1,0 +1,220 @@
+{
+  "slides": [
+    {
+      "type": "slide",
+      "start_animation": 0,
+      "end_animation": 1,
+      "number": 1,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 1,
+      "end_animation": 2,
+      "number": 2,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 2,
+      "end_animation": 3,
+      "number": 3,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 3,
+      "end_animation": 4,
+      "number": 4,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 4,
+      "end_animation": 5,
+      "number": 5,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 5,
+      "end_animation": 6,
+      "number": 6,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 6,
+      "end_animation": 7,
+      "number": 7,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 7,
+      "end_animation": 8,
+      "number": 8,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 8,
+      "end_animation": 10,
+      "number": 9,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 10,
+      "end_animation": 11,
+      "number": 10,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 11,
+      "end_animation": 15,
+      "number": 11,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 15,
+      "end_animation": 16,
+      "number": 12,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 16,
+      "end_animation": 18,
+      "number": 13,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 18,
+      "end_animation": 20,
+      "number": 14,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 20,
+      "end_animation": 21,
+      "number": 15,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 21,
+      "end_animation": 22,
+      "number": 16,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 22,
+      "end_animation": 23,
+      "number": 17,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 23,
+      "end_animation": 25,
+      "number": 18,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 25,
+      "end_animation": 27,
+      "number": 19,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 27,
+      "end_animation": 28,
+      "number": 20,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 28,
+      "end_animation": 29,
+      "number": 21,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 29,
+      "end_animation": 30,
+      "number": 22,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 30,
+      "end_animation": 31,
+      "number": 23,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 31,
+      "end_animation": 33,
+      "number": 24,
+      "terminated": false
+    },
+    {
+      "type": "last",
+      "start_animation": 33,
+      "end_animation": 34,
+      "number": 25,
+      "terminated": false
+    }
+  ],
+  "files": [
+    "slides\\files\\EnsembleMethods\\4266129954_122782333_223132457.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1434069813_3307694093.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3343321549_1900744662.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3349629169_907003228.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_257353882_1494103392.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_848284449_1226400295.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_140966669_2992515183.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_2317379155_1631797335.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1998639663_1382072988.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_666147619_880096232.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3473503535_5044702.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_2927259514_4153950557.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1552317979_2821714835.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3520203000_4225147342.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_4233748293_195589380.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_420618072_1205579125.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1164873227_2028544390.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_2496025889_1487028774.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3095747618_2028544390.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1764591368_1487028774.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3389652155_2249885340.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_890971447_2249885340.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1902545500_1565433787.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_2365406027_629320299.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1565909089_589144718.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1424151213_629320299.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_2236221831_589144718.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3855242275_4213109185.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3830778722_4213109185.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_2559711384_1398502667.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_2758103655_1097762503.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_1511345476_1691243823.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_108781063_665986370.mp4",
+    "slides\\files\\EnsembleMethods\\1442284246_3844884009_2358810818.mp4"
+  ],
+  "resolution": [
+    854,
+    480
+  ],
+  "background_color": "black"
+}

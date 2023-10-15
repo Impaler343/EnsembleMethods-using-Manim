@@ -1,0 +1,68 @@
+{
+  "slides": [
+    {
+      "type": "slide",
+      "start_animation": 0,
+      "end_animation": 1,
+      "number": 1,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 1,
+      "end_animation": 2,
+      "number": 2,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 2,
+      "end_animation": 3,
+      "number": 3,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 3,
+      "end_animation": 4,
+      "number": 4,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 4,
+      "end_animation": 5,
+      "number": 5,
+      "terminated": false
+    },
+    {
+      "type": "slide",
+      "start_animation": 5,
+      "end_animation": 6,
+      "number": 6,
+      "terminated": false
+    },
+    {
+      "type": "last",
+      "start_animation": 6,
+      "end_animation": 8,
+      "number": 7,
+      "terminated": false
+    }
+  ],
+  "files": [
+    "slides\\files\\O\\4266129954_1730117406_223132457.mp4",
+    "slides\\files\\O\\1442284246_11183075_1070057520.mp4",
+    "slides\\files\\O\\1442284246_1715692287_2886966314.mp4",
+    "slides\\files\\O\\1442284246_2527959092_2481758347.mp4",
+    "slides\\files\\O\\1442284246_123393709_708066143.mp4",
+    "slides\\files\\O\\1442284246_472366543_2223894435.mp4",
+    "slides\\files\\O\\1442284246_63881318_2358810818.mp4",
+    "slides\\files\\O\\1442284246_3452158917_2747008908.mp4"
+  ],
+  "resolution": [
+    854,
+    480
+  ],
+  "background_color": "black"
+}
